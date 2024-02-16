@@ -1,7 +1,7 @@
 # secureTransactionReactNative
-A secure transaction react native mobile application
+#### A secure transaction react native mobile application
 
-# To run your project, navigate to the directory and run one of the following npm commands.
+### To run your project, navigate to the directory and run one of the following npm commands.
 
 - cd secureTransactionReactNative
 - npm run android
